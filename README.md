@@ -9,4 +9,4 @@
        3. Tokenize the data
        4. Remove stopwords
        5. Transform the tokens into their root forms through lemmatization
-  - Perform sentiment analysis on the preprocessed data using VADER 
+   - Perform sentiment analysis on the preprocessed data using VADER 
